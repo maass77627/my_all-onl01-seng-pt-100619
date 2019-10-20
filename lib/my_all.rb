@@ -7,8 +7,7 @@ def my_all?(collection)
     << yield(collection[i])
   i = i + 1 
 end
-
-  if 
+if 
   block_return_values.include?(false) 
   false
 else
