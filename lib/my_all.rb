@@ -14,6 +14,7 @@ if
     true
   end
   my_all?
+  block_return_values
 end
 
 
