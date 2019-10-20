@@ -15,7 +15,6 @@ if
   else
     true
   end
-my_all
-end
+
 
   
