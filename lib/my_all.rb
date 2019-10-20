@@ -13,7 +13,7 @@ if
   else
     true
   end
-  my_all
+  my_all?
 end
 
 
